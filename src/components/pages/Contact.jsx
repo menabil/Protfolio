@@ -40,7 +40,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="bg-[#070707] py-25">
+    <div className="bg-[#070707] py-25" id="contact">
       <Container>
         <h3 className="text-white font-Ows font-medium text-[60px] uppercase py-15">
           Contact Me

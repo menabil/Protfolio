@@ -13,7 +13,7 @@ import { Link } from "react-router";
 
 const Protfolio = () => {
   return (
-    <div className="bg-black pb-50 pt-35">
+    <div className="bg-black pb-50 pt-35" id="project">
       <Container>
         <Flex className={"justify-between items-center mb-25"}>
           <h3 className="uppercase text-[60px] text-white font-Ows font-medium">

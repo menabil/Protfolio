@@ -3,6 +3,7 @@ import Container from "../Container";
 import Flex from "../Flex";
 import Image from "../Image";
 import Logo from "/src/assets/logo.png";
+import { HashLink } from "react-router-hash-link";
 
 const Header = () => {
   return (
@@ -16,24 +17,24 @@ const Header = () => {
           </div>
           <div className="">
             <ul className="flex items-center gap-x-7.5 text-[#070707] font-Pop text-base font-medium">
-              <Link to={"/"}>
+              <HashLink smooth to="#home">
                 <li>HOME</li>
-              </Link>
-              <Link to={"/about"}>
+              </HashLink>
+              <HashLink smooth to="#about">
                 <li>ABOUT</li>
-              </Link>
-              <Link to={"/service"}>
+              </HashLink>
+              <HashLink smooth to="#service">
                 <li>SERVICES</li>
-              </Link>
-              <Link to={"/protfolio"}>
+              </HashLink>
+              <HashLink smooth to="#project">
                 <li>PROJECTS</li>
-              </Link>
-              <Link to={"/testinomi"}>
+              </HashLink>
+              <HashLink smooth to="#blog">
                 <li>BLOG</li>
-              </Link>
-              <Link to={"/contact"}>
+              </HashLink>
+              <HashLink smooth to="#contact">
                 <li>CONTACT</li>
-              </Link>
+              </HashLink>
             </ul>
           </div>
         </Flex>
