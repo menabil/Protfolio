@@ -12,11 +12,11 @@ const About = () => {
           </p>
           <div className="">
             <p className="w-242 text-[#E6EAEE] font-Pop text-3xl leading-10.5 mb-15">
-              I am Nabil Muntasir, a seasoned fontend developer with over 1
-              years of experience in crafting intuitive and engaging digital
-              experiences. My journey began with a background in graphic design,
-              where I discovered my passion for understanding user behavior and
-              translating it into seamless interactions.
+              Hi, I'm Nabil Muntasir. As a passionate front-end developer with
+              over a year of hands-on experience, I specialize in crafting
+              intuitive digital experiences. My core focus lies in understanding
+              user behavior and turning those insights into seamless web
+              interactions.
             </p>
             <Flex className={"justify-between"}>
               <div className=" text-center">

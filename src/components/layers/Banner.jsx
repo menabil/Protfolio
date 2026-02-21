@@ -20,7 +20,7 @@ const Banner = () => {
               10+ reviews <span className="text-[#969696]">(4.96 of 5)</span>
             </p>
             <p className="text-[#070707] font-Pop font-medium text-base w-75 leading-7">
-              Five-star reviews from my esteemed clients.
+              Words from my esteemed clients.
             </p>
           </div>
           <div className="absolute top-70 left-1/2 -translate-x-1/2">

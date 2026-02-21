@@ -68,7 +68,7 @@ const Testinomi = () => {
               Majharul Islam
             </h4>
             <p className="font-Pop text-[#77777D] text-sm leading-5.5">
-              CEO & Founder Tesla
+              CEO & Founder Amar Pion
             </p>
           </div>
           <div className="p-5 rounded-2xl bg-white">
