@@ -4,7 +4,7 @@ import SlotCounter from "react-slot-counter";
 
 const About = () => {
   return (
-    <div className="bg-black">
+    <div className="bg-black" id="about">
       <Container className={"py-25"}>
         <Flex className={"justify-between items-start"}>
           <p className="text-[#F4F3ED] text-[22px] font-Pop font-medium">
