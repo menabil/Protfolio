@@ -88,7 +88,7 @@ import { LuArrowUpRight } from "react-icons/lu";
 
 const Services = () => {
   return (
-    <div className="bg-[#F4F3ED] py-25">
+    <div className="bg-[#F4F3ED] py-25" id="service">
       <Container>
         <h3 className="uppercase text-[60px] text-[#070707] font-Ows font-medium mb-17.5">
           Services

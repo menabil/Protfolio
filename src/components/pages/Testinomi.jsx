@@ -9,7 +9,7 @@ import TFiv from "/src/assets/tFiv.png";
 
 const Testinomi = () => {
   return (
-    <div className="bg-[#F4F3ED]">
+    <div className="bg-[#F4F3ED]" id="blog">
       <Container>
         <h3 className="text-[#070707] font-Ows font-medium text-[60px] uppercase py-20">
           Testinomials

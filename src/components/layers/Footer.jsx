@@ -8,7 +8,7 @@ const Footer = () => {
         <p className="text-xl font-Pop">Have a project in mind?</p>
         <a
           target="_blank"
-          href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"
+          href="mailto:nabil99cc@gmail.com"
         >
           <h3 className="text-[180px] font-Pop font-bold cursor-pointer">
             LETS WORK

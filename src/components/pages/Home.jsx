@@ -8,7 +8,7 @@ import Testinomi from "./Testinomi";
 
 const Home = () => {
   return (
-    <>
+    <div id="home">
       <Banner />
       <Marquri />
       <About />
@@ -16,7 +16,7 @@ const Home = () => {
       <Protfolio />
       <Testinomi />
       <Contact />
-    </>
+    </div>
   );
 };
 
